@@ -20,6 +20,8 @@ def print1(n) :
 def printCall() :
     print1(1)
 
-
+# print numberr from 1 to 5. you can only call one function.
 printCall()
+# that's y calling one main funciton and that will call other and from the main function.
+# PS- Here printCall() working as main function
 
